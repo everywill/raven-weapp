@@ -1,13 +1,12 @@
 {
-  "name": "@youzan/raven-weapp",
+  "name": "raven-weapp",
   "version": "0.0.7",
   "description": "Sentry SDK for WeApp",
   "main": "index.js",
   "scripts": {
-    "build": "grunt build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "grunt build"
   },
-  "author": "panchen",
+  "author": "everywill",
   "license": "ISC",
   "devDependencies": {
     "browserify-versionify": "^1.0.6",
